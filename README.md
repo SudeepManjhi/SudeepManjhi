@@ -1,4 +1,4 @@
-https://github.com/SudeepManjhi/SudeepManjhi/blob/main/22626578.gif?raw=true
+https://github.com/SudeepManjhi/SudeepManjhi/blob/9155f26b14adee0749b987e1a530ad011b6a4546/22626578.gif
 # Hi there! I'm Sudeep Manjhi 👋  
 
 🎓 MCA Student | AI/ML Developer | Full Stack Developer  
